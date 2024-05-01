@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: devops
+pool: samp
 
 steps:
 - task: Maven@4
